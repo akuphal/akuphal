@@ -1,8 +1,3 @@
-###############################################################################
-# client-python.py
-# Name: Tachun Lin
-###############################################################################
-
 import sys
 import socket
 
@@ -11,7 +6,7 @@ RECV_BUFFER_SIZE = 2048
 
 def client(router_ip, router_port, server_ip, server_port):
     client_ip = server_ip
-    client_port = 1230 ## dunno what the client port should be but we have to include in message sent...
+    client_port = 1230
     
     # create an INET, STREAMing socket
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
@@ -42,7 +37,7 @@ def main():
     """TODO: CHANGE TO 4 ARGS: SERVER IP, SERVER PORT, ROUTER IP, ROUTER PORT """
     if len(sys.argv) != 5:
         sys.exit("Usage: python3 client-python.py [Server IP] [Server Port] [Router IP] [Router Port] < [message]")
-    server_ip = sys.argv[1]  ##why do they not start at index 0? imma roll with it
+    server_ip = sys.argv[1] 
     server_port = int(sys.argv[2])
     router_ip = sys.argv[3]
     router_port = int(sys.argv[4])
