@@ -1,4 +1,7 @@
-### Hi there 👋
+### Alex Kuphal's Portfolio
+
+I am a graduate of Bradley University with a degree in Data Science and I have been working for 8 months at Produce Pro Software, an ERP software for mid-large sized produce companies. I worked as a software devoloper for about 3 months after being trained, and then was able to make a shift to the analytis department where I've been working the last 4 months as a professional services consultant. My daily responsibilities since then have mainly involved maintaining the data warehouses for around 60 customers who use analytics, a bit of software engineering for maintaining the programs that get the ETL files out of the ERP, as well as supporting the work that our customers our doing out of IBM Cognos. I also headed the setup of internal analytics in Salesforce after we transitioned over in February. Overall I have a strong working background in data engineering, analytics, and reporting. Along with my degree and projects performing data science in python, my experience in software development, I believe I'm a strong candidate to consider for data science and analytics roles to help drive data insights in your company.
+
 
 <!--
 **akuphal/akuphal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
