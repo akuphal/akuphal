@@ -2,12 +2,12 @@
 
 I am a graduate of Bradley University with a degree in Data Science and I have been working for 8 months at Produce Pro Software, an ERP software for mid-large sized produce companies. I worked as a software devoloper for about 3 months after being trained, and then was able to make a shift to the analytis department where I've been working the last 4 months as a professional services consultant. My daily responsibilities since then have mainly involved maintaining the data warehouses for around 60 customers who use analytics, a bit of software engineering for maintaining the programs that get the ETL files out of the ERP, as well as supporting the work that our customers our doing out of IBM Cognos. I also headed the setup of internal analytics in Salesforce after we transitioned over in February. Overall I have a strong working background in data engineering, analytics, and reporting. Along with my degree and projects performing data science in python, my experience in software development, I believe I'm a strong candidate to consider for data science and analytics roles to help drive data insights in your company.
 
-I have included a variety of different projects here along with other files such as my resume and cover letter so to make them easier to navigate I've tagged the projects by which field they are most relevent to. There's DS for Data Science, DE for Data Engineering, and DA for Data Analytics.
+I have included a variety of different projects here along with my resume and cover letter so to make it easier to navigate I've tagged the projects by which field they are most relevent to. There's DS for Data Science, DE for Data Engineering, and DA for Data Analytics and I've detailed the projects in each of the categories below.
 
 
 Data Science - DS
 
-These files are a mix of projects that I've done in school and in my free time. They range in complexity from basic data analysis to using machine learning to build models and the notebooks are fairly well commented and titled appropriately so feel free to explore those projects.
+These files are a mix of projects that I've done in school and in my free time. They range in complexity from basic data analysis to using machine learning to build models The notebooks are fairly well commented and titled appropriately so feel free to explore those projects as they should be fairly self explanitory.
 
 
 Data Engineering - DE
@@ -17,7 +17,7 @@ The majority of my experience in this field comes from my work at Produce Pro, w
 
 Data Analytics - DA
 
-This section is similar to the last in that the majority of my work in it has been done through produce pro but I do have more of an ability to share this since it was an internal analytics project rather than one that belonged to a customer. I've included that project, along with a similar documennt to the data engineering section that goes through my data analytics job responsibilities at produce pro in a bit more detail.
+This section is similar to the last in that the majority of my work in it has been done through produce pro but I do have more of an ability to share this since my salesforce work was an internal analytics project rather than one that belonged to a customer. I've included that project, along with a similar documennt to the data engineering section that goes through my data analytics job responsibilities at Produce Pro in a bit more detail.
 
 
 <!--
