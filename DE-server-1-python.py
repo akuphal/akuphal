@@ -1,8 +1,3 @@
-###############################################################################
-# server-python.py
-# Name: Tachun Lin
-###############################################################################
-
 import sys
 import socket
 
@@ -40,7 +35,6 @@ def server(server_port,router_ip,router_port):
                     print("data: " + data)
                     print("sip: " + server_ip)
                     print("sport: " + server_port)
-                    """TODO: extra credit send message back to client through router"""
                 sys.stdout.flush()
     pass
 
