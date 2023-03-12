@@ -1,8 +1,3 @@
-###############################################################################
-# server-python.py
-# Name: 
-###############################################################################
-
 import sys
 import socket
 
@@ -31,7 +26,6 @@ def server(router_port):
         while True:
             # accept connections from outside
             (clientsocket, address) = serversocket.accept()
-            #I believe this is the location that a statement connecting the router to the client needs to be placed
 
             with clientsocket:
                 while True:
