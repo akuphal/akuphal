@@ -12,12 +12,12 @@ These files are a mix of projects that I've done in school and in my free time. 
 
 Data Engineering - DE
 
-The majority of my experience in this field comes from my work at Produce Pro, which although it allows it to be one of my most practiced does not give me an ability to share many of the projects. To supliment that I've included a document going through in more details the projects I've worked on at Produce Pro, and a personal project that goes through setting up a router/server/client relationship in python.
+Since the majority of my experience in this field comes from my work at Produce Pro, to supliment my lack of ability to share projects I've included a document going through in more details the projects I've worked on at Produce Pro. I have included a personal project that goes through setting up a router/server/client relationship in python, as well as a small project in SQL server studio looking at the effectiveness of Pokemon Teams.
 
 
 Data Analytics - DA
 
-This section is similar to the last in that the majority of my work in it has been done through produce pro but I do have more of an ability to share this since my salesforce work was an internal analytics project rather than one that belonged to a customer. I've included that project, along with a similar documennt to the data engineering section that goes through my data analytics job responsibilities at Produce Pro in a bit more detail.
+This section is similar to the last in that the majority of my work in it has been done through produce pro but I do have more of an ability to share my Salesforce project since that work was an internal analytics project rather than one that belonged to a customer. I've included that project, along with a similar documennt to the data engineering section that goes through my data analytics job responsibilities at Produce Pro in a bit more detail.
 
 
 <!--
