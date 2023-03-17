@@ -12,12 +12,12 @@ These files are a mix of projects that I've done in school and in my free time. 
 
 Data Engineering - DE
 
-Since the majority of my experience in this field comes from my work at Produce Pro, to supliment my lack of ability to share projects I've included a document going through in more details the projects I've worked on at Produce Pro. I have included a personal project that goes through setting up a router/server/client relationship in python, as well as a small project in SQL server studio looking at the effectiveness of Pokemon Teams.
+Since the majority of my experience in this field comes from my work at Produce Pro, to supliment my lack of ability to share projects I've included a document going through in more details the projects I've worked on at Produce Pro. In terms of personal projects I have 2 included. The first goes through setting up a router/server/client relationship in python where all of the components can be used to communicated with each other as a they do over the internet. The second project is looking at the effectiveness of my Pokemon Team in SQL server studio. I have 3 queries and screenshots of their outputs which goes through me joining my team to a table of overall stats, then joining the type matchup matrix to my team to create one for my team, and then sumarizing that matrix to look at which types need more covverage.
 
 
 Data Analytics - DA
 
-This section is similar to the last in that the majority of my work in it has been done through produce pro but I do have more of an ability to share my Salesforce project since that work was an internal analytics project rather than one that belonged to a customer. I've included that project, along with a similar documennt to the data engineering section that goes through my data analytics job responsibilities at Produce Pro in a bit more detail.
+This section is similar to the last in that the majority of my work in it has been done through produce pro but I do have more of an ability to share my Salesforce project since that work was an internal analytics project rather than one that belonged to a customer. I've included a walkthrough of that project, along with a similar documennt to the data engineering section that goes through my data analytics job responsibilities and other projects I've worked on at Produce Pro in a bit more detail.
 
 
 <!--
