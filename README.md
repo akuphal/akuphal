@@ -7,7 +7,7 @@ I have included a variety of different projects here along with my resume and co
 
 Data Analytics - DA
 
-Since most of my experience in this field comes from my work at Produce Pro, I am limited in what I can share in this category. I do have the ability to share my Salesforce project since that work was an internal analytics project rather than one that belonged to a customer, so I've included a walkthrough of that project. I've also included a document that details the responsibilities of the analytics department at Produce Pro which also goes through a bit of my data engineering experience too.
+Since most of my experience in this field comes from my work at Produce Pro, I am limited in what I can share in this category. I do have the ability to share my Salesforce project since that work was an internal analytics project rather than one that belonged to a customer and I can redact the crucial info, so I've included a walkthrough of that project. I've also included a document that details the responsibilities of the analytics department at Produce Pro which also goes through a bit of my data engineering experience too.
 
 
 Data Engineering - DE
@@ -17,7 +17,7 @@ As most of my experience in this field comes from my work at Produce Pro as well
 
 Data Science - DS
 
-These files are a mix of projects that I've done in school and in my free time. They range in complexity from basic data analysis to using machine learning to build models The notebooks are fairly well commented and titled appropriately so feel free to explore those projects as they should be fairly self-explanatory.
+These files are a mix of projects that I've done in school and in my free time. They range in complexity from basic data analysis to using machine learning to build models. The notebooks are fairly well commented and titled appropriately so feel free to explore those projects as they should be fairly self-explanatory.
 
 
 <!--
